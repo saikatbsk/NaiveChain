@@ -1,0 +1,3 @@
+- [x] Implement classes for creating a blockchain
+- [ ] Implement test classes
+- [ ] Implement flask server
